@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/MIT-license-yellow)
 ## Vehicle Program  Builder
-View here for the video: 
+View here for the video: https://drive.google.com/file/d/16Ew_KIyAZgox1399I5yhmhbSe8dPXM1r/view
 
 ## Description
 
@@ -22,7 +22,7 @@ Clone the Repo at git clone https://github.com/BriannaVitan/Vehicle-program.git
 
 ## Usage
 
-![alt text]
+![alt text](<images/Vehicle Program Builder.png>)
 
 ## License
 
