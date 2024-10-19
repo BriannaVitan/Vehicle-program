@@ -4,7 +4,7 @@ import Truck from "./Truck.js";
 import Car from "./Car.js";
 import Motorbike from "./Motorbike.js";
 import Wheel from "./Wheel.js";
-import { collapseTextChangeRangesAcrossMultipleVersions } from "typescript";
+
 
 // define the Cli class
 class Cli {
